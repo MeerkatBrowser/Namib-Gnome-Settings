@@ -8,10 +8,10 @@ post_install() {
 
 	\cp /etc/skel_gnome/.xinitrc /etc/skel_new/.xinitrc
 	
-	\rm -rf /usr/share/mate-background-properties
-    \rm -rf /usr/share/backgrounds/mate
+	\rm -rf /usr/share/gnome-background-properties
+    \rm -rf /usr/share/backgrounds/gnome
 
-    \mkdir -p /usr/share/mate-background-properties/
+    \mkdir -p /usr/share/gnome-background-properties/
 
     \ln -s /usr/share/backgrounds/gnome/config/gnome-backgrounds.xml /usr/share/gnome-background-properties/gnome-backgrounds.xml
     \ln -s /usr/share/backgrounds/gnome /usr/share/backgrounds/gnome
