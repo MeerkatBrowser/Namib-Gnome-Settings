@@ -1,0 +1,13 @@
+[org.gnome.desktop.screensaver]
+picture-uri='/usr/share/backgrounds/gnome/1802.jpg'
+
+[org.gnome.desktop.background]
+picture-uri='/usr/share/backgrounds/gnome/1802.jpg'
+
+[org.gnome.shell.extensions.user-theme]
+name="Numix"
+
+[org.gnome.desktop.interface]
+gtk-theme='Numix'
+icon-theme='Arc'
+
