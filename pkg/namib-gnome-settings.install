@@ -13,8 +13,8 @@ post_install() {
 
     \mkdir -p /usr/share/gnome-background-properties/
 
-    \ln -s /usr/share/backgrounds/gnome/config/gnome-backgrounds.xml /usr/share/gnome-background-properties/gnome-backgrounds.xml
-    \ln -s /usr/share/backgrounds/gnome /usr/share/backgrounds/gnome
+    \ln -s /usr/share/backgrounds/namib/config/gnome-backgrounds.xml /usr/share/gnome-background-properties/gnome-backgrounds.xml
+    \ln -s /usr/share/backgrounds/namib /usr/share/backgrounds/gnome
 }
 
 post_upgrade() {
