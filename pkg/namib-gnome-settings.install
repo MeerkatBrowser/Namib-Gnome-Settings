@@ -5,8 +5,8 @@ post_install() {
 
     \cp -r /etc/lightdm_gnome/lightdm.conf /etc/lightdm/lightdm.conf
     \cp -r /usr/share/glib-2.0/schemas/org.gnome.shell.extensions.dash-to-panel-namib.gschema.xml /usr/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/schemas/org.gnome.shell.extensions.dash-to-panel.gschema.xml
-	\cp -r /usr/share/glib-2.0/schemas/org.gnome.shell.extensions.arc-menu-namib.gschema /usr/share/gnome-shell/extensions/arc-menu@linxgem33.com/schemas/org.gnome.shell.extensions.arc-menu.gschema.xml
-    \cp -r /usr/share/glib-2.0/schemas/org.gnome.shell.extensions.arc-menu-namib.gschema /usr/share/glib-2.0/schemas/org.gnome.shell.extensions.arc-menu.gschema.xml
+	\cp -r /usr/share/glib-2.0/schemas/org.gnome.shell.extensions.arc-menu-namib.gschema.xml /usr/share/gnome-shell/extensions/arc-menu@linxgem33.com/schemas/org.gnome.shell.extensions.arc-menu.gschema.xml
+    \cp -r /usr/share/glib-2.0/schemas/org.gnome.shell.extensions.arc-menu-namib.gschema.xml /usr/share/glib-2.0/schemas/org.gnome.shell.extensions.arc-menu.gschema.xml
 
 	glib-compile-schemas /usr/share/glib-2.0/schemas
     glib-compile-schemas /usr/share/gnome-shell/extensions/arc-menu@linxgem33.com/schemas
