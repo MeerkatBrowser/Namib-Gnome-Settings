@@ -20,13 +20,9 @@ enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'arc
 name="Materia-Namib"
 
 [org.gnome.shell.extensions.arc-menu]
-custom-menu-button-text='Applications'
 menu-button-text='System_Text'
 menu-button-appearance='Icon_Text'
-disable-activities-hotcorner=false
 menu-button-icon='System_Icon'
 
 [org.gnome.shell.extensions.dash-to-panel]
 show-show-apps-button=false
-
-
