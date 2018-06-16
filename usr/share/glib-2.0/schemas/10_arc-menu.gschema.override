@@ -1,0 +1,6 @@
+[org.gnome.shell.extensions.arc-menu]
+custom-menu-button-text='Applications'
+menu-button-text='System_Text'
+menu-button-appearance='Icon_Text'
+disable-activities-hotcorner=false
+menu-button-icon='System_Icon'
