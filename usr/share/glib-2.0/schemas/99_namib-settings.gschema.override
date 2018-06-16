@@ -1,13 +1,18 @@
 [org.gnome.desktop.screensaver]
-picture-uri='/usr/share/backgrounds/gnome/1802.jpg'
+picture-uri='/usr/share/backgrounds/namib/1802.jpg'
 
 [org.gnome.desktop.background]
-picture-uri='/usr/share/backgrounds/gnome/1802.jpg'
+picture-uri='/usr/share/backgrounds/namib/1802.jpg'
 
 [org.gnome.shell.extensions.user-theme]
-name="Numix"
+name="Materia-Namib"
 
 [org.gnome.desktop.interface]
-gtk-theme='Numix'
-icon-theme='Arc'
+gtk-theme='Materia-Namib'
+icon-theme='Papirus'
+cursor-theme='Breeze'
+
+[org.gnome.shell.extensions.user-theme]
+name="Materia-Namib"
+
 
