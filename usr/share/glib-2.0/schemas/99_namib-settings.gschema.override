@@ -12,6 +12,9 @@ gtk-theme='Materia-Namib'
 icon-theme='Papirus'
 cursor-theme='Breeze'
 
+[org.gnome.shell]
+enabled-extensions=['apps-menu@gnome-shell-extensions.gcampax.github.com', 'user-theme@gnome-shell-extensions.gcampax.github.com']
+
 [org.gnome.shell.extensions.user-theme]
 name="Materia-Namib"
 
