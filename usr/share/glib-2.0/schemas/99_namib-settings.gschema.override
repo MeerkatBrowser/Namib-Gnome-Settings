@@ -1,8 +1,8 @@
 [org.gnome.desktop.screensaver]
-picture-uri='/usr/share/backgrounds/namib/1802.jpg'
+picture-uri='/usr/share/backgrounds/namib/1806.jpg'
 
 [org.gnome.desktop.background]
-picture-uri='/usr/share/backgrounds/namib/1802.jpg'
+picture-uri='/usr/share/backgrounds/namib/1806.jpg'
 
 [org.gnome.shell.extensions.user-theme]
 name="Materia-Namib"
