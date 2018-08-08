@@ -1,8 +1,8 @@
 [org.gnome.desktop.screensaver]
-picture-uri='/usr/share/backgrounds/namib/1806.jpg'
+picture-uri='/usr/share/backgrounds/namib/1808.jpg'
 
 [org.gnome.desktop.background]
-picture-uri='/usr/share/backgrounds/namib/1806.jpg'
+picture-uri='/usr/share/backgrounds/namib/1808.jpg'
 
 [org.gnome.shell.extensions.user-theme]
 name="Materia-Namib"
@@ -23,3 +23,6 @@ menu-button-icon='System_Icon'
 
 [org.gnome.shell.extensions.dash-to-panel]
 show-show-apps-button=false
+
+[org.gnome.desktop.wm.preferences]
+button-layout='appmenu:minimize,maximize,close'
