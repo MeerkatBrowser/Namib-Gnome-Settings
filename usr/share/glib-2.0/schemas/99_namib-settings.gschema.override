@@ -14,7 +14,7 @@ cursor-theme='Breeze'
 
 [org.gnome.shell]
 favorite-apps=['firefox.desktop', 'org.gnome.Nautilus.desktop', 'pamac-manager.desktop']
-enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'arc-menu@linxgem33.com', 'dash-to-panel@jderose9.github.com']
+enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'arc-menu@linxgem33.com', 'dash-to-panel@jderose9.github.com', 'appindicatorsupport@rgcjonas.gmail.com']
 
 [org.gnome.shell.extensions.arc-menu]
 menu-button-text='System_Text'
