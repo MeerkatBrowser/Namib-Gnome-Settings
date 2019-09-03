@@ -20,6 +20,7 @@ enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'arc
 menu-button-text='System_Text'
 menu-button-appearance='Icon_Text'
 menu-button-icon='System_Icon'
+menu-hotkey='Super_L'
 
 [org.gnome.shell.extensions.dash-to-panel]
 show-show-apps-button=false
