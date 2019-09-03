@@ -47,7 +47,7 @@
       <description>Disable activities hotcorner.</description>
     </key>
     <key name="menu-hotkey" enum="org.gnome.shell.extensions.arc-menu.menu-hotkey">
-      <default>'Undefined'</default>
+      <default>'Super_L'</default>
       <summary>The menu hotkey to open the Arc Menu.</summary>
       <description>The menu hotkey to open the Arc Menu.</description>
     </key>
